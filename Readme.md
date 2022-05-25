@@ -1,13 +1,13 @@
-#Always Show available on MSTeam
+# Always Show available on MSTeam
 Want to show available in MSTeam when you are actually away from screen?
 
 Follow Below steps todo setup :) 
 
-##Requirements
+## Requirements
 1. Python
 2. Git (Optional)
 
-##Steps
+## Steps
 1. Install Python
 2. Clone this repo or Download
 3. Open terminal 
